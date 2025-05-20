@@ -1,0 +1,60 @@
+.container {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+}
+.h4 {
+  background-color: black;
+  color: white;
+  margin: 10px;
+  justify-content: flex-end;
+  padding: 10px;
+}
+.h6 {
+  margin: 10px;
+  font-size: 15px;
+  padding: 10px;
+}
+.h5 {
+  margin: 10px;
+  text-indent: 20px;
+  padding: 10px;
+}
+.h3 {
+  margin: 5px;
+  text-align: start;
+  padding: 10px;
+}
+.p {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+}
+.h2 {
+  text-align: center;
+  margin: 15px;
+}
+.tel {
+  text-align: center;
+  font-size: 30px;
+}
+.span {
+  margin: 5px;
+  background-color: white;
+  color: slategrey;
+}
+.input {
+  margin: 5px;
+  background-color: limegreen;
+  color: white;
+  width: 200px;
+  height: 50px;
+  border: white;
+}
+
+.img {
+  text-align: center;
+  margin: 100px;
+}
